@@ -1,4 +1,4 @@
-# Go Patterns Examples (Functional)
+# Go Patterns Examples
 
 This repo contains **36 runnable examples** of idiomatic Go patterns.
 
